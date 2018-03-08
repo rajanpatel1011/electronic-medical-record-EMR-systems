@@ -1,0 +1,46 @@
+*{
+padding : 0px 0px 2px 0px;
+margin : 0;
+border : 2;
+}
+body{
+/*background-color : rgb(255, 255, 255); */
+}
+.blended_grid{
+display : block;
+width : 100%;
+overflow : auto;
+margin : auto 0 auto;
+}
+.pageHeader{
+background-color : rgba(0, 95, 141, 0.84);
+float : left;
+clear : none;
+height : 80px;
+width : 100%;
+}
+.pageLeftMenu{
+/*background-color : rgba(130,209,229,0.4);*/
+float : left;
+clear : none;
+height : 100%;
+width : 14%;
+}
+.pageContent{
+clear : none; 
+height : 100%;
+width : 80%;
+float:left;
+
+}
+.msg {color: #008000;font-weight: bold;text-align: center;width: 100%;padding: 10;}
+.message {color: #FF0000;font-weight: bold;text-align: center;width: 100%;padding: 10;}
+.demo-table {width: 70%;border-spacing: initial;margin: 0px 0px;word-break: break-word;table-layout: auto;line-height:1.8em;color: #080808 !important;}
+.demo-table td {padding: 7px 7px 10px 100px; font-family: 'Open Sans', sans-serif;}
+.demoInputBox {padding: 7px;border-radius: 4px;}
+.btnRegister {padding: 15px;background-color: #000000;border: 0;font-weight:bold;color: #FFF;cursor: pointer;}
+
+
+/*.cheader{
+	background-color: rgba(0,161,203,0.99);
+}*/
